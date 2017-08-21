@@ -1,0 +1,423 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="keywords" content="定点敲除细胞株, 基因定点敲除, crispr基因敲除, cas9基因敲除, 条件性基因敲除, 合生基因" />
+<meta name="description" content="合生基因推出病毒载体与包装服务/shRNA/miRNA/Cas9/基因过表达/诱导表达/病毒可在2-3周生成并交付/欢迎致4006803200或发送邮件至service@syngen.tech咨询" />
+<title>基因敲除</title>
+
+<link rel="shortcut icon" type="image/png" href="http://portal.assets.syngentech.com.cn/images/logo.png" />
+<link rel="alternate" type="application/rss+xml" title="合生基因" href="http://www.syngentech.com.cn/feed.xml">
+<link rel="stylesheet" href="http://cdn.amazeui.org/amazeui/2.4.2/css/amazeui.css"/>
+<link rel="stylesheet" href="http://portal.assets.syngentech.com.cn/stylesheets/main.css">
+
+<!-- Start of OneAPM Bi script -->
+<script type='text/javascript'>window.BWEUM||(BWEUM={});BWEUM.info = {"stand":true,"agentType":"browser","agent":"bi-collector.oneapm.com/static/js/bw-send-411.4.5.js","beaconUrl":"bi-collector.oneapm.com/beacon","licenseKey":"I2uA6~fJi2uBfi2v","applicationID":2274596};</script>
+<script type="text/javascript" src="//bi-collector.oneapm.com/static/js/bw-loader-411.4.5.js"></script>
+<!-- End of OneAPM Bi script -->
+<!-- Start of KF5 supportbox script -->
+<script src="//assets.kf5.com/supportbox/main.js" id="kf5-provide-supportBox" kf5-domain="syngentech.kf5.com"></script>
+<!-- End of KF5 supportbox script -->
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?cc8bb42304c088d15e5bdf8c544a4645";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+  </head>
+  <body>
+    <header class="am-topbar am-topbar-inverse am-topbar-fixed-top">
+  <div class="am-container">
+    <h1 class="am-topbar-brand am-show-sm-only">
+      <a href="#" class="am-text-ir" style="background-image: url(http://portal.assets.syngentech.com.cn/images/logo-white.png);">logo</a>
+    </h1>
+
+    <button class="am-topbar-btn am-topbar-toggle am-btn am-btn-sm am-btn-default am-show-sm-only" data-am-offcanvas="{target: '#offcanvas'}">
+      <span class="am-sr-only">导航切换</span>
+      <span class="am-icon-bars"></span>
+    </button>
+
+    <div class="am-collapse am-topbar-collapse">
+      <ul class="am-nav am-nav-pills am-topbar-nav am-nav-justify" style="max-width: 960px;">
+        <h1 class="am-topbar-brand">
+          <a href="#" class="am-text-ir" style="background-image: url(http://portal.assets.syngentech.com.cn/images/logo-white.png);">logo</a>
+        </h1>
+        <li><a href="http://www.syngentech.com.cn/">首页</a></li>
+        <li class="am-dropdown">
+          <a href="http://www.syngentech.com.cn/service" class="am-dropdown-toggle">技术服务</a>
+          <ul class="am-dropdown-content full-width">
+            <div class="am-container">
+              <div class="am-u-md-2">
+                <p>方法</p>
+                <ul class="am-nav">
+                  <li><a href="http://www.syngentech.com.cn/service/product/LV/">慢病毒</a></li>
+                  <li><a href="http://www.syngentech.com.cn/service/product/adenovirus/">腺病毒</a></li>
+                  <li><a href="http://www.syngentech.com.cn/service/adeno-associated-virus/">腺相关病毒</a></li>
+                  <li><a href="http://www.syngentech.com.cn/service/">CRISPR</a></li>
+                  <li><a href="http://www.syngentech.com.cn/service/solution/silencing/">RNAi</a></li>
+                  <li><a href="http://www.syngentech.com.cn/service/solution/high-throughput-edting/">高通量文库构建</a></li>
+                </ul>
+              </div>
+              <div class="am-u-md-3">
+                <p>载体</p>
+                <ul class="am-nav">
+                  <li><a href="http://www.syngentech.com.cn/service/product/gRNA-library/">gRNA文库构建</a></li>
+                  <li><a href="http://www.syngentech.com.cn/service/product/shRNA-library/">shRNA文库构建</a></li>
+                  <li><a href="http://www.syngentech.com.cn/service/product/RNAi-design/">RNAi载体设计与构建</a></li>
+                  <li><a href="http://www.syngentech.com.cn/service/product/miRNA-sponge-design/">miRNA sponge 抑制载体设计与构建</a></li>
+                  <li><a href="http://www.syngentech.com.cn/service/product/CRISPR-design/">CRISPR/Cas9载体设计与构建</a></li>
+                  <li><a href="http://www.syngentech.com.cn/service/custom-plasmid">定制化质粒构建</a></li>
+                </ul>
+              </div>
+              <div class="am-u-md-3">
+                <p>细胞</p>
+                <ul class="am-nav">
+                  <li><a href="http://www.syngentech.com.cn/service/solution/knock-in/">定点敲入细胞株</a></li>
+                  <li><a href="http://www.syngentech.com.cn/service/solution/knock-down/">基因敲除细胞株</a></li>
+                  <li><a href="http://www.syngentech.com.cn/service/solution/non-site-specific-integration/">稳定整合细胞系</a></li>
+                  <li><a href="http://www.syngentech.com.cn/service/solution/silencing/">基因沉默细胞系</a></li>
+                  <li><a href="http://www.syngentech.com.cn/service/cell-phenotype/">细胞性状检测</a></li>
+                  <li><a href="http://www.syngentech.com.cn/service/product/CRISPR-activity/">CRISPR/Cas9活性检测</a></li>
+                </ul>
+              </div>
+              <div class="am-u-md-2">
+                <p>病毒</p>
+                <ul class="am-nav">
+                  <li><a href="http://www.syngentech.com.cn/service/product/LV/">慢病毒包装</a></li>
+                  <li><a href="http://www.syngentech.com.cn/service/solution/silencing/">基因沉默慢病毒包装</a></li>
+                  <li><a href="http://www.syngentech.com.cn/service/solution/knock-down/">基因敲除慢病毒包装</a></li>
+                  <li><a href="http://www.syngentech.com.cn/service/product/adenovirus/">腺病毒包装</a></li>
+                  <li><a href="http://www.syngentech.com.cn/service/solution/knock-down/">基因敲除腺病毒包装</a></li>
+                  <li><a href="http://www.syngentech.com.cn/service/solution/silencing/">基因沉默腺病毒包装</a></li>
+                  <li><a href="http://www.syngentech.com.cn/service/adeno-associated-virus/">腺相关病毒包装</a></li>
+                </ul>
+              </div>
+              <div class="am-u-md-2">
+                <p>其他服务</p>
+                <ul class="am-nav">
+                  <li><a href="http://www.syngentech.com.cn/service/product/gene-synthesis/">基因合成</a></li>
+                  <li><a href="http://www.syngentech.com.cn/service/product/transgenic-mice/">基因工程鼠</a></li>
+                </ul>
+              </div>
+            </div>
+          </ul>
+        </li>
+        <li class="am-dropdown">
+          <a href="http://www.syngentech.com.cn/biogeek" class="am-dropdown-toggle">BioGeek试剂</a>
+          <ul class="am-dropdown-content full-width">
+            <div class="am-container">
+              <div class="am-u-md-4">
+                <p>分子克隆</p>
+                <ul class="am-nav">
+                  <li><a href="http://www.syngentech.com.cn/biogeek/clone/bg10401/">2 x EvaGreen Master Mix</a></li>
+                  <li><a class="disable">KOD DNA 聚合酶</a></li>
+                  <li><a class="disable">Easyclone 快速克隆试剂盒</a></li>
+                  <li><a href="http://www.syngentech.com.cn/biogeek/clone/bg10102/">GeneTag<sup>TM</sup> DNA 聚合酶</a></li>
+                  <li><a href="http://www.syngentech.com.cn/biogeek/clone/bg10110/">2 x Taq Master Mix</a></li>
+                  <li><a href="http://www.syngentech.com.cn/biogeek/clone/bg10201/">T4 DNA 连接酶</a></li>
+                  <li><a href="http://www.syngentech.com.cn/biogeek/clone/bg10202/">Quick Ligase<sup>TM</sup></a></li>
+                  <li><a href="http://www.syngentech.com.cn/biogeek/clone/bg10301/">Pfu DNA 聚合酶</a></li>
+                </ul>
+              </div>
+              <div class="am-u-md-4">
+                <p>细胞培养</p>
+                <ul class="am-nav">
+                  <li><a href="http://www.syngentech.com.cn/biogeek/cell/LP-kit/">慢病毒包装试剂盒</a></li>
+                  <li><a href="http://www.syngentech.com.cn/biogeek/cell/LC-kit/">慢病毒浓缩试剂盒</a></li>
+                  <li><a href="http://www.syngentech.com.cn/biogeek/cell/bg20201/">Epect<sup>TM</sup> 转染试剂</a></li>
+                  <li><a href="http://www.syngentech.com.cn/biogeek/cell/bg20301/">Polybrene</a></li>
+                </ul>
+              </div>
+              <div class="am-u-md-4">
+                <p>高通量测序样本制备</p>
+                <ul class="am-nav">
+                  <li><a href="http://www.syngentech.com.cn/biogeek/ngs/bg30101/">iMag<sup>TM</sup> 质粒提取试剂盒</a></li>
+                  <li><a href="http://www.syngentech.com.cn/biogeek/ngs/bg30201/">iMag<sup>TM</sup> 核酸纯化试剂盒</a></li>
+                  <li><a href="http://www.syngentech.com.cn/biogeek/ngs/bg30301/">iMag<sup>TM</sup> 片段分选试剂盒</a></li>
+                </ul>
+              </div>
+            </div>
+          </ul>
+        </li>
+        <li><a href="http://www.geshare.com.cn" target="_blank">基因山</a></li>
+        <li><a href="javascript:;">合生健康</a></li>
+        <li><a href="http://blog.syngentech.com.cn/">博客</a></li>
+        <li class="am-dropdown">
+          <a href="javascript:;" class="am-dropdown-toggle">关于我们</a>
+          <ul class="am-dropdown-content">
+            <li><a href="http://www.syngentech.com.cn/about">企业简介</a></li>
+            <li><a href="http://www.syngentech.com.cn/hire">招贤纳士</a></li>
+            <li><a href="http://www.syngentech.com.cn/cooperate">工业合作/代理加盟</a></li>
+            <li><a href="http://www.syngentech.com.cn/contact">联系我们</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<!--Offcanvas shown on small screens -->
+<div id="offcanvas" class="am-offcanvas">
+  <div class="am-offcanvas-bar">
+    <div class="am-offcanvas-content">
+      <ul class="am-list" id="offcanvas-collapse">
+        <li class="am-panel">
+          <div class="am-padding-sm am-padding-horizontal">
+            <a href="http://www.syngentech.com.cn/">首页</a>
+          </div>
+        </li>
+        <li class="am-panel">
+          <div class="am-padding-sm am-padding-horizontal">
+            <a href="http://www.syngentech.com.cn/service">技术服务</a>
+            <i class="am-icon-caret-down am-fr" data-am-collapse="{parent: '#offcanvas-collapse', target: '#offcanvas-service'}"></i>
+          </div>
+          <ul class="am-list am-collapse" id="offcanvas-service">
+            <li class="am-panel">
+              <div>
+                <div class="am-padding-sm am-padding-horizontal">
+                  <a href="javascript:;">方法</a>
+                  <i class="am-icon-caret-down am-fr" data-am-collapse="{parent: '#offcanvas-service', target: '#offcanvas-method'}"></i>
+                </div>
+              </div>
+              <ul class="am-list am-collapse" id="offcanvas-method">
+                <li><a href="http://www.syngentech.com.cn/service/product/LV/">慢病毒</a></li>
+                <li><a href="http://www.syngentech.com.cn/service/product/adenovirus/">腺病毒</a></li>
+                <li><a href="http://www.syngentech.com.cn/service/adeno-associated-virus/">腺相关病毒</a></li>
+                <li><a href="http://www.syngentech.com.cn/service/">CRISPR</a></li>
+                <li><a href="http://www.syngentech.com.cn/service/solution/silencing/">RNAi</a></li>
+                <li><a href="http://www.syngentech.com.cn/service/solution/high-throughput-edting/">高通量文库构建</a></li>
+              </ul>
+            </li>
+            <li class="am-panel">
+              <div>
+                <div class="am-padding-sm am-padding-horizontal">
+                  <a href="javascript:;">载体</a>
+                  <i class="am-icon-caret-down am-fr" data-am-collapse="{parent: '#offcanvas-service', target: '#offcanvas-vector'}"></i>
+                </div>
+              </div>
+              <ul class="am-list am-collapse" id="offcanvas-vector">
+                <li><a href="http://www.syngentech.com.cn/service/product/gRNA-library/">gRNA文库构建</a></li>
+                <li><a href="http://www.syngentech.com.cn/service/product/shRNA-library/">shRNA文库构建</a></li>
+                <li><a href="http://www.syngentech.com.cn/service/product/RNAi-design/">RNAi载体设计与构建</a></li>
+                <li><a href="http://www.syngentech.com.cn/service/product/miRNA-sponge-design/">miRNA sponge 抑制载体设计与构建</a></li>
+                <li><a href="http://www.syngentech.com.cn/service/product/CRISPR-design/">CRISPR/Cas9载体设计与构建</a></li>
+                <li><a href="http://www.syngentech.com.cn/service/custom-plasmid">定制化质粒构建</a></li>
+              </ul>
+            </li>
+            <li class="am-panel">
+              <div>
+                <div class="am-padding-sm am-padding-horizontal">
+                  <a href="javascript:;">细胞</a>
+                  <i class="am-icon-caret-down am-fr" data-am-collapse="{parent: '#offcanvas-service', target: '#offcanvas-cell'}"></i>
+                </div>
+              </div>
+              <ul class="am-list am-collapse" id="offcanvas-cell">
+                <li><a href="http://www.syngentech.com.cn/service/solution/knock-in/">定点敲入细胞株</a></li>
+                <li><a href="http://www.syngentech.com.cn/service/solution/knock-down/">基因敲除细胞株</a></li>
+                <li><a href="http://www.syngentech.com.cn/service/solution/non-site-specific-integration/">稳定整合细胞系</a></li>
+                <li><a href="http://www.syngentech.com.cn/service/solution/silencing/">基因沉默细胞系</a></li>
+                <li><a href="http://www.syngentech.com.cn/service/cell-phenotype/">细胞性状检测</a></li>
+                <li><a href="http://www.syngentech.com.cn/service/product/CRISPR-activity/">CRISPR/Cas9活性检测</a></li>
+              </ul>
+            </li>
+            <li class="am-panel">
+              <div>
+                <div class="am-padding-sm am-padding-horizontal">
+                  <a href="javascript:;">病毒</a>
+                  <i class="am-icon-caret-down am-fr" data-am-collapse="{parent: '#offcanvas-service', target: '#offcanvas-virus'}"></i>
+                </div>
+              </div>
+              <ul class="am-list am-collapse" id="offcanvas-virus">
+                <li><a href="http://www.syngentech.com.cn/service/product/LV/">慢病毒包装</a></li>
+                <li><a href="http://www.syngentech.com.cn/service/solution/silencing/">基因沉默慢病毒包装</a></li>
+                <li><a href="http://www.syngentech.com.cn/service/solution/knock-down/">基因敲除慢病毒包装</a></li>
+                <li><a href="http://www.syngentech.com.cn/service/product/adenovirus/">腺病毒包装</a></li>
+                <li><a href="http://www.syngentech.com.cn/service/solution/knock-down/">基因敲除腺病毒包装</a></li>
+                <li><a href="http://www.syngentech.com.cn/service/solution/silencing/">基因沉默腺病毒包装</a></li>
+                <li><a href="http://www.syngentech.com.cn/service/adeno-associated-virus/">腺相关病毒包装</a></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li class="am-panel">
+          <div class="am-padding-sm am-padding-horizontal">
+            <a href="http://www.syngentech.com.cn/biogeek/">BioGeek试剂</a>
+            <i class="am-icon-caret-down am-fr" data-am-collapse="{parent: '#offcanvas-collapse', target: '#offcanvas-biogeek'}"></i>
+          </div>
+          <ul class="am-list am-collapse" id="offcanvas-biogeek">
+            <li class="am-panel">
+              <div>
+                <div class="am-padding-sm am-padding-horizontal">
+                  <a href="http://www.syngentech.com.cn/biogeek/clone/">分子克隆</a>
+                  <i class="am-icon-caret-down am-fr" data-am-collapse="{parent: '#offcanvas-biogeek', target: '#offcanvas-clone'}"></i>
+                </div>
+              </div>
+              <ul class="am-list am-collapse" id="offcanvas-clone">
+                <li><a href="http://www.syngentech.com.cn/biogeek/clone/bg10401/">2 x EvaGreen Master Mix</a></li>
+                <li><a class="disable">KOD DNA 聚合酶</a></li>
+                <li><a class="disable">Easyclone 快速克隆试剂盒</a></li>
+                <li><a href="http://www.syngentech.com.cn/biogeek/clone/bg10102/">GeneTag<sup>TM</sup> DNA 聚合酶</a></li>
+                <li><a href="http://www.syngentech.com.cn/biogeek/clone/bg10110/">2 x Taq Master Mix</a></li>
+                <li><a href="http://www.syngentech.com.cn/biogeek/clone/bg10201/">T4 DNA 连接酶</a></li>
+                <li><a href="http://www.syngentech.com.cn/biogeek/clone/bg10202/">Quick Ligase<sup>TM</sup></a></li>
+                <li><a href="http://www.syngentech.com.cn/biogeek/clone/bg10301/">Pfu DNA 聚合酶</a></li>
+              </ul>
+            </li>
+            <li class="am-panel">
+              <div>
+                <div class="am-padding-sm am-padding-horizontal">
+                  <a href="http://www.syngentech.com.cn/biogeek/cell/">细胞培养</a>
+                  <i class="am-icon-caret-down am-fr" data-am-collapse="{parent: '#offcanvas-biogeek', target: '#offcanvas-cell'}"></i>
+                </div>
+              </div>
+              <ul class="am-list am-collapse" id="offcanvas-cell">
+                <li><a href="http://www.syngentech.com.cn/biogeek/cell/LP-kit/">慢病毒包装试剂盒</a></li>
+                <li><a href="http://www.syngentech.com.cn/biogeek/cell/LC-kit/">慢病毒浓缩试剂盒</a></li>
+                <li><a href="http://www.syngentech.com.cn/biogeek/cell/bg20201/">Epect<sup>TM</sup> 转染试剂</a></li>
+                <li><a href="http://www.syngentech.com.cn/biogeek/cell/bg20301/">Polybrene</a></li>
+              </ul>
+            </li>
+            <li class="am-panel">
+              <div>
+                <div class="am-padding-sm am-padding-horizontal">
+                  <a href="http://www.syngentech.com.cn/biogeek/ngs">高通量测序样本制备</a>
+                  <i class="am-icon-caret-down am-fr" data-am-collapse="{parent: '#offcanvas-biogeek', target: '#offcanvas-ngs'}"></i>
+                </div>
+              </div>
+              <ul class="am-list am-collapse" id="offcanvas-ngs">
+                <li><a href="http://www.syngentech.com.cn/biogeek/ngs/bg30101/">iMag<sup>TM</sup> 质粒提取试剂盒</a></li>
+                <li><a href="http://www.syngentech.com.cn/biogeek/ngs/bg30201/">iMag<sup>TM</sup> 核酸纯化试剂盒</a></li>
+                <li><a href="http://www.syngentech.com.cn/biogeek/ngs/bg30301/">iMag<sup>TM</sup> 片段分选试剂盒</a></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li class="am-panel">
+          <div class="am-padding-sm am-padding-horizontal">
+            <a href="http://www.geshare.com.cn" target="_blank">基因山</a>
+          </div>
+        </li>
+        <li class="am-panel">
+          <div class="am-padding-sm am-padding-horizontal">
+            <a href="http://blog.syngentech.com.cn/">博客</a>
+          </div>
+        </li>
+        <li class="am-panel">
+          <div class="am-padding-sm am-padding-horizontal">
+            <a href="#">关于我们</a>
+            <i class="am-icon-caret-down am-fr" data-am-collapse="{parent: '#offcanvas-collapse', target: '#offcanvas-about'}"></i>
+          </div>
+          <ul class="am-list am-collapse" id="offcanvas-about">
+            <li><a href="http://www.syngentech.com.cn/about">企业简介</a></li>
+            <li><a href="http://www.syngentech.com.cn/hire">招贤纳士</a></li>
+            <li><a href="http://www.syngentech.com.cn/cooperate">工业合作/代理加盟</a></li>
+            <li><a href="http://www.syngentech.com.cn/contact">联系我们</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+    <div id="service" class="am-container" style="max-width: 960px">
+  <h1 class="am-margin-top">基因敲除</h1>
+  <!-- <img src="http://portal.assets.syngentech.com.cn/images/solution-1.1.jpg" width="100%" height="360px"> -->
+  <div class="img-style am-vertical-align am-g-streched" style= "background-image: url(http://portal.assets.syngentech.com.cn/images/solution-1.1.jpg)">
+  </div>
+  <div style='display: none'>
+  <h2>基因敲除的概述</h2>
+  <h2>基因敲除的技术原理</h2>
+  <h2>基因敲除的解决方案</h2>
+  <h2>基因敲除的联系方式</h2>
+</div>
+<h2>概述</h2>
+<div class='am-cf'>
+  <p class='am-align-left'>
+    <img alt='图片' class='am-img-responsive' src='http://portal.assets.syngentech.com.cn/images/solution-1.2.jpg' width='320'>
+  </p>
+  <p class='am-margin-top-0'>基因敲除是自80年代末发展起来的一种分子生物学技术，是通过一定的途径使机体内特定的基因发生突变或缺失的技术，通过观察基因缺失引起的表型变化，进而推测该基因的生物学功能。早期的基因敲除主要是利用DNA同源重组原理，通过设计同源片段替代靶基因片段，从而达到基因敲除的目的。目前应用比较成功的基因敲除技术主要有：Zinc-finger、TALEN、CRISPR/Cas9。</p>
+  <p>CRISPR(Clustered Regularly Interspaced Short Palindromic Repeats)/Cas(CRISPR-Associated)是一种由RNA指导Cas核酸酶对靶向基因进行特定DNA修饰的技术。它是细菌和古细菌为应对噬菌体和质粒不断攻击而演化来的获得性免疫防御机制。此系统的工作原理是通过人工优化的具有引导作用的单链gRNA(Guide RNA)引导核酸酶Cas蛋白在与gRNA配对的靶位点处剪切双链DNA，引起DNA双链断裂（DSB），进而利用生物体内非同源末端修复机制（NHEJ）或同源重组机制（HR）修复DNA，导致基因移码突变、替换或删除，致使基因功能丧失。</p>
+  <p>目前CRISPR/Cas9技术已经广泛应用于哺乳动物、植物、鸟类、昆虫、鱼类、微生物等各个领域。</p>
+</div>
+<hr>
+<h2 class='am-margin-xs'>技术原理</h2>
+<p class='am-margin-top-0'>基因敲除原理：gRNA识别并结合在目标基因区域引导Cas9蛋白对结合位点进行切割，引起DNA双链断裂（DSB），触发细胞自身的非同源末端修复机制（NHEJ），NHEJ修复的过程中往往会产生DNA的插入或删除（Indel），造成移码突变，致使基因功能丧失，从而实现基因敲除。</p>
+<div align='center'>
+  <img alt='基因敲除' class='am-img-responsive' height='309' src='http://portal.assets.syngentech.com.cn/images/solution-1.3.jpg' width='437'>
+</div>
+<hr>
+<h2 class='am-margin-xs'>解决方案</h2>
+<p class='am-margin-top-0'>
+  合生基因提供从生物信息学分析、基因编辑分子实验、细胞实验、动物模型制作的一站式技术服务，经我们优化的CRISPR/Cas9系统适用于任何基因的靶位点及哺乳动物细胞。合生基因拥有一支具有丰富CRISPR基因编辑经验的技术团队，目前可以实现包括gRNA设计、
+  <a href='http://www.syngentech.com.cn/service/product/CRISPR-design'>CRISPR/Cas9载体构建</a>
+  、细胞转染、阳性克隆鉴定、单克隆细胞培养、
+  <a href='http://www.syngentech.com.cn/service/product/cell-line-transform'>基因敲除细胞系构建</a>
+  等服务。服务完成后，我们将交付给您指定基因功能缺失的单克隆细胞株及详细的鉴定报告。
+</p>
+<div align='center'>
+  <img alt='解决方案' class='am-img-responsive' height='479' src='http://portal.assets.syngentech.com.cn/images/solution-1.4.jpg' width='294'>
+</div>
+<img class='am-img-responsive' src='http://portal.assets.syngentech.com.cn/images/service-knock-down-0.png'>
+
+
+  <p class="am-text-center">
+    <strong>
+      欢迎致电4006803200，或发送邮件至
+      <a href="mailto:service@syngen.tech">service@syngen.tech</a>
+      咨询，合生基因技术工程师将为您竭心服务。
+    </strong>
+  </p>
+  <div class="img-style1 am-vertical-align am-margin-bottom-lg " style= "background-image: url(http://portal.assets.syngentech.com.cn/images/solution-1.5.jpg)">
+  </div>
+</div>
+
+    <footer class="site-footer am-text-xs">
+  <div class="am-container am-padding-top-lg">
+    <div class="am-u-sm-12 am-u-md-3 am-u-lg-3">
+      <h3>合成生物学</h3>
+      <p>合成生物学是进入本世纪以来刚刚发展起来的一门新兴交叉学科，它是在基于对生命规律认识的基础上，利用工程化的思想，通过人工方式设计、制造或改造DNA等生物分子，来构建和优化生物系统，使其能够处理信息、制造材料、生产能源、提供食物、改善人类健康和环境等，已经成为生命科学中最受关注的前沿学科方向之一。</p>
+    </div>
+    <div class="am-u-sm-12 am-u-md-3 am-u-lg-3">
+      <h3>合生基因</h3>
+      <p>北京合生基因科技有限公司是国内第一家专注于合成生物学在科研和医药健康领域应用的生物技术公司。公司将秉持“科教兴国、产业报国、健康强国”理念，以“在过程中寻找机会、在发展中解决问题、在创新中获得效益”为思路，以发展民族生物产业为己任，努力成为集合成生物学技术研发、科研服务和产品销售于一体的新型生物医药技术型企业。</p>
+    </div>
+    <div class="am-u-sm-12 am-u-md-4 am-u-lg-4">
+      <h3>切换语言</h3>
+      <div>
+        
+        <a href="http://www.syngentech.com.cn/service/solution/knock-out/">简体中文</a>
+        
+        
+        <span class="am-margin-horizontal-xs">|</span>
+        <a href="http://www.syngentech.com.cn/en/service/solution/knock-down/">English</a>
+        
+      </div>
+      <h3>联系我们</h3>
+      <ul class="am-nav">
+        <li>联系热线：010-80767807;400-680-3200</li>
+        <li>服务邮箱：service@syngen.tech</li>
+        <li>公司地址：北京市昌平区中关村生命科学园生命广场北侧一层</li>
+      </ul>
+    </div>
+    <div class="am-u-sm-12 am-u-md-2 am-u-lg-2">
+      <img class="am-img-responsive" src='http://portal.assets.syngentech.com.cn/images/index26.jpg'>
+    </div>
+  </div>
+  <div class="am-container am-padding-bottom-xs">
+    <div class="am-text-center">版权所有 &copy; 北京合生基因科技有限公司 · 京ICP备14043945号</div>
+  </div>
+</footer>
+<script src="http://apps.bdimg.com/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="http://cdn.amazeui.org/amazeui/2.4.2/js/amazeui.js"></script>
+<script src="http://portal.assets.syngentech.com.cn/javascripts/main.js"></script>
+
+  </body>
+</html>
